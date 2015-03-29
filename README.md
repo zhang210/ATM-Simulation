@@ -1,4 +1,3 @@
-# ATM-Simulation
 
 ATM-Simulation
 ===================
