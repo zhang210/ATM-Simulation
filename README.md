@@ -28,11 +28,16 @@ $ php index.php
 ATM Cash Withdrawal Emulator 
 Please choose following commands: 
 
-withdraw <amount> 
-status 
+withdraw <amount>
+
+status
+ 
 init <num of $50> <num of $20>
+
 add_50 <number of notes>
+
 add_20 <number of notes>
+
 exit 
 
 >
