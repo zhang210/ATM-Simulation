@@ -11,8 +11,11 @@ DESIGN
 The application are design as a Model-View-Controller pattern. Even if it's a bit heavy for this simple app.
 
 In the classes directory:
-Atm.php  -- Controller, implements all the user requests, process the data returned from models and load views. 
+
+Atm.php  -- Controller, implements all the user requests, process the data returned from models and load views.
+ 
 Model.php -- Model, services Data access, update. There is no DB involve, the ATM Cash works as a public variable. 
+
 View.php -- View, display the information for response.
 
 
